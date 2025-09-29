@@ -1,5 +1,4 @@
 ## 🛠️ Environment Variables
-![ENV](public/results/env.png)
 ---
 
 ## 📂 Folder Structure
